@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const api = axios.create({
-    baseURL:"http://localhost:3000/api"
+    baseURL:"https://task-management-rest-apis.onrender.com/api"
 });
 api.interceptors.request.use(function (config) {
     const token =localStorage.getItem('token'); 
