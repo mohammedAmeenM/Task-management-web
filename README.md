@@ -20,6 +20,7 @@ Features
   - Drag and Drop: Intuitive drag-and-drop functionality for task management.
   - Form Validation: Use Formik for robust form validation.
   - CRUD Task Management: Create, Read, Update, and Delete tasks efficiently.
+  - Hosting : Vercel host the front-end
 
 
 If you have any questions or need further assistance, feel free to contact me at amiameen507@gmail.com.
